@@ -1,6 +1,10 @@
 # usbcdc-tcp-bridge
 Semi-work code for bidirectional tcp to usb-cdc communication
 
+## Hardware
+
+ESP32-S3
+
 ## WiFi settings
 
 WIFI_SSID      "ESP32_VCP_Gateway"
