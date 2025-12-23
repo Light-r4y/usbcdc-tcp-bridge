@@ -3,9 +3,13 @@ idf_component_register(
     INCLUDE_DIRS "."
     PRIV_REQUIRES
         usb
-        esp_wifi
-        esp_event
         esp_netif
-        lwip 
+        esp_wifi
         nvs_flash
+        driver
+        freertos
+        lwip
+        esp_timer
+        esp_event
+        esp_system
     )
