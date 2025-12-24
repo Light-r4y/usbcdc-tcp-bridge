@@ -13,7 +13,7 @@ WIFI_PASS      "passw0rd"
 
 IP             192.168.4.1
 
-TCP_PORT       2000
+TCP_PORT       29001
 
 Configurable in code as define
 
